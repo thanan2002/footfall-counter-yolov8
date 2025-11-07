@@ -13,6 +13,15 @@ This project counts people crossing a virtual line in a video. It uses **Ultraly
 
 ---
 
+## Repository
+
+Clone this project from GitHub:
+
+```bash
+git clone https://github.com/thanan2002/footfall-counter-yolov8.git
+
+
+
 ## Video Source
 
 - **File:** `mall_counting.mp4` (simulated mall corridor video with clear pedestrian flow)
