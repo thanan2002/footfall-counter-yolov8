@@ -23,6 +23,13 @@ cd footfall-counter-yolov8
 ```
 
 ---
+## Repository
+
+Clone this project from GitHub:
+
+```bash
+git clone https://github.com/thanan2002/footfall-counter-yolov8.git
+```
 
 ## Video Source
 
