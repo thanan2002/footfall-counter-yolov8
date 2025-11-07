@@ -12,6 +12,12 @@ This project counts people crossing a virtual line in a video. It uses **Ultraly
 > - **Auto‑screenshots**: three PNG frames saved in `outputs/` during a run
 
 ---
+## Repository
+
+Clone this project from GitHub:
+
+```bash
+git clone https://github.com/thanan2002/footfall-counter-yolov8.git
 
 ## Video Source
 
