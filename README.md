@@ -50,11 +50,11 @@ After a run you’ll find three images saved automatically:
 
 You can embed them like:
 
-```markdown
+
 ![Snapshot 1](outputs/snap_001.png)
 ![Snapshot 2](outputs/snap_002.png)
 ![Snapshot 3](outputs/snap_003.png)
-```
+
 
 ---
 
@@ -227,12 +227,6 @@ Install:
 pip install -r requirements.txt
 ```
 
----
-
-## License
-Choose a license if you’re publishing (MIT recommended for open-source).
-
----
 
 ## Author
 
